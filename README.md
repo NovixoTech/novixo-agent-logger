@@ -7,7 +7,7 @@ AI agents increasingly take actions on a user's or developer's behalf, calling t
 ## Install
 
 ```
-npm install agent-logger
+npm install novixo-agent-logger
 ```
 
 ## Quick start
