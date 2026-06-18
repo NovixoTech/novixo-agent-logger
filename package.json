@@ -1,0 +1,15 @@
+{
+  "name": "novixo-agent-logger",
+  "version": "0.1.0",
+  "description": "Lightweight, human-readable audit trail for AI agent actions and tool calls.",
+  "main": "index.js",
+  "type": "commonjs",
+  "license": "MIT",
+  "keywords": ["ai", "agent", "logging", "audit", "observability", "llm"],
+  "author": "NovixoTech",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NovixoTech/novixo-agent-logger.git"
+  },
+  "files": ["index.js", "README.md", "LICENSE"]
+}
