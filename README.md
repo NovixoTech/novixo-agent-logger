@@ -61,4 +61,4 @@ novixo-agent-logger integrates directly with novixo-engine's Phase 8 AI Request 
 
 ## License
 
-MIT © NovixoTech
+MIT © [NovixoTech](https://github.com/NovixoTech) 
